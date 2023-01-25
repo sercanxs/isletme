@@ -1,0 +1,133 @@
+1 - büyüme sadece milli gelirdeki niceliksel bir artışı ifade eder. Kalkınmada ise; üretim ve teknolojide oluşan
+    gelişmelerle birlikte açığa çıkan ekonomik ve sosyal gelişmeleri de içerir. 
+
+3 - İnsani Yoksulluk Endeksi ( HPI ), Birleşmiş Milletler tarafından İnsani Gelişme Endeksi'ni (HDI) tamamlamak için
+    geliştirilen ve ilk olarak 1997'de İnsani Yoksunluk Raporunun bir parçası olarak rapor edilen bir ülkedeki 
+    topluluk yoksulluğunun bir göstergesiydi.
+    HPI, halihazırda İGE'de yansıtılan insan yaşamının üç temel unsurundaki yoksunluğa odaklanır: uzun ömür, 
+    bilgi ve iyi bir yaşam standardı. HPI, gelişmekte olan ülkeler (HPI-1) ve bir grup yüksek gelirli OECD ülkesi (HPI-2) 
+    için sosyo-ekonomik farklılıkları ve ayrıca iki gruptaki çok farklı yoksunluk ölçülerini daha iyi yansıtmak için 
+    ayrı ayrı türetilmiştir.
+
+4 - Tek sektörlü bir ekonomide tek bir homojen mal üretilip tüketilmektedir
+    Tasarruf oranı, aşınma payı, nüfus büyüme oranı ve teknolojik gelişme oranı sabit ve dışsaldır.
+    Piyasalarda tam rekabet ve tam istihdam şartları geçerlidir
+    Bireyler gelirlerinin bir kısmını tüketime bir kısmını tasarrufa ayırmaktadır ve
+    tasarruf yapanlarla yatırım yapanlar aynı kişilerdir.
+    Emek ve sermaye faktörleri için azalan verimler kanunu geçerlidir.
+    Üretimde ölçeğe göre sabit getiri vardır
+    Devlet yoktur ve ekonomi dışa kapalıdır
+    Inada koşulları (sermayenin kişi başına düşen miktarı çok küçük olduğunda
+    sermayenin marjinal verimliliği çok yüksekken, sermayenin kişi başına düşen
+    miktarı çok yüksek olduğunda sermayenin marjinal verimliliği çok düşüktür)
+    geçerlidir.
+
+6 - Ekonomik büyüme mal ve hizmet miktarındaki artışla ortaya çıkmışsa buna reel büyüme denir.
+
+7 - En Az Gelişmiş Ülkeler" (EAGÜ), Birleşmiş Milletlerin 1971'de yaptığı bir tanımlamadır.
+  - gelir düşüklüğü kıstası: kişi basma yıllık milli gelirin üç senelik ortalamasının 900 Dolar'ın altında olması
+  - insan kaynaklarında zayıflık kıstası: beslenme, sağlık, ömür beklentisi eğitim ve yetişkin okuryazarlığı düzeylerim dikkate alan yaşam kalıntısı göstergesine uygunluk.
+  - ekonomide çeşitlilik eksikliği kıstası: tarım üretimindeki istikrarsızlık, mal ve hizmet ihracatındaki istikrarsızlık, geleneksel olmayan faaliyetlerin (imalat ve hizmet sektörünün)
+      ekonomideki ağırlığı, mal ihracatındaki sınırlı sayıda üründe yoğunlaşma ve ekonomik boyutların yetersizle unsurlarım kapsayan bir göstergeye uygunluk. 
+      Ayrıca ülke nüfusunun 75 milyonu aşmaması koşulu da aranıyor.
+
+9 -  İBT, ekonomik büyümenin temelinde ekonomideki karar birimlerinin bilinçli tercihlerinin ve politikalarının bulunduğunu, ne tür politikalar ve
+     seçimler yapıldığında uzun dönemli büyüme oranlarının sağlanacağını ortaya koymaktadır. İBT’de teknolojik gelişmenin ekonomik büyüme için taşıdığı önem yüksektir.
+     İBT’ye göre teknolojik gelişme fiziksel sermaye, beşeri sermaye ve teknolojik bilgi birikiminin arttırılması yönündeki tercihlere,
+     farklı piyasa ortamlarında bu tercihlerin başarılı sonuç vermesi için uygulanacak politikalara bağlı olmaktadır. 
+
+10 - Bu ülkelerde içsel büyüme etkenlerinin etkisi yüksektir. Büyümek için yapılan planların arkasında devlet vardır ve insanlara çok fazla yük yüklenir. Bilgiye erişmek günümüzde
+     kolay olduğu için teknolojik olarak aradaki uçurum da kapanmaktadır. Öyle ki yazılım sektöründe Asyalılar çoğunluğu oluşturur. Tersine mühendislik Çin'de gelişmiştir. İnsanların
+     Çalışmaya zorlanmasıyla, düşük ücret ve değersiz para ile sürekli yatırımcı çekmesiyle beşeri sermayelerinde, fiziksel sermayelerinde, teknolojilerinde artış olmuş olabilir.
+
+11 - Normal durumda ekonominin geldiği dengedir. Eğer ekonomide normalde tam istihdamda dengeye geliyorsa, normal durum dengesi de tam istihdam denge düzeyidir.
+
+12 - Dünya Bankası, ülkeleri kişi başına gelirlerine göre dört grupta sınıflandırıyor: Düşük gelirli ülkeler, alt-orta gelir grubundaki ülkeler, üst – orta gelir
+     grubundaki ülkeler ve yüksek gelir grubundaki ülkeler. Her yıl yenilenen bu sınıflandırmayı yaparken ülkelerin kişi başına GNI düzeyine (Gayrısafi ulusal geliri) ve grupları
+     sınıflandırırken de SDR deflatörünü kullanarak ayarladığı yıllık enflasyon oranına bakıyor. 
+
+13 - Devletin egemenliği yeterince yüksek değildir.
+     İnsanların hayatı parasal sisteme daha az bağlıdır ve bu da vergi gelirlerine yansıyabilir.
+     Sanayileşme ve üretim düşüktür.
+     Ekonomi kayıt altında değildir.
+     Siyasi yapı sağlam değildir.
+     Hukuki yapı sağlam değildir.
+     Devletin bağımsızlığı yoktur.
+
+14 - Vergi kapasitesi, bir ülkede belli bir dönemdeki vergilendirilebilir ekonomik potansiyeli ifade etmektedir.
+     Vergi gayreti, vergi kapasitesinin fiilen gerçekleşen kısmıdır.
+     Az gelişmiş ülkelerde ekonomik, sosyal, siyasal yaşam farklı olduğu için vergi kapasitesi ve gayreti farklı olabilir. Öncelikle olmayan bir elde edimden vergi alınamaz.
+     Sanayileşme ve üretim düşükse vergi kapasitesi de düşük olur.
+     Devletin kendi içinde askeri egemenliği yoksa insanları kontrol edemez.
+     Devletin dışa karşı bağımsızlığı yoksa sistem düzgün işleyemez.
+     Kayıt dışı ekonomi fazlaysa vergi gayreti düşük olur.
+     İnsanların düşünceleri farklı yapıdaysa vergi kapasitesi de farklı yapıda olur.
+     Hukuki yapı insanları, ödeme gücünü doğru olarak kavrayamayabilir bu da vergi gayretine yansır.
+     İnsanlar kendi ürettiklerinden tüketiyorlarsa vergi bu kişileri kapsamayabilir.
+
+15 - Gelişmemiş ülkelerde gelir adaletsizliği yüksektir. artan oranlı vergi ise yüksek gelirli kimselerin yüklerini artırır.
+     Ama bunun üst dilimleri düşük gelirlileri kapsayacak seviyeye getirilirse bu, düşük gelirlilere daha çok yük olur. 
+     Vergi oranı yüzde yüz olsa kimse çalışmak istemez. Dolayısıyla vergi oranları bir noktaya kadar artırılabilir. Artan oranlı vergi ise vergi yükünü belirli durumlarda yeterince
+     artırmayabilir.
+     Düşük gelirlilere düşük vergi uygulanırsa düşük gelirlilerin yükü daha az olur.
+     Devletin bir paraya ihtiyacı varsa artan oranlı vergi tarifesi insanlara toplamda daha az yük olur.
+
+16 - Washington Konsensüsü, ABD ve diğer G-8 ülkeleri tarafından kabul edilen; IMF, Dünya Bankası ve WTO tarafından dayatılan neo-liberal ekonomi politikalarıdır.
+
+     Mali disiplinler
+     Özel Mülkiyetin korunması
+     Kamu harcamalarının azaltılması
+     Kamu teşebbüslerinin özelleştirilmesi
+     Vergi reformu
+     Ticaretin serbestleştirilmesi
+     Finansal reform
+     Uluslararası ticaretin önündeki engellerin kaldırılması
+     Sermaye hareketlerinin liberalleştirilmesi
+     Serbest faiz hadleri
+     Rekabetçi kur politikaları
+
+17 - Devletin egemenliği yeterince yüksek değildir.
+     İnsanların hayatı parasal sisteme daha az bağlıdır ve bu da vergi gelirlerine yansıyabilir.
+     Sanayileşme ve üretim düşüktür.
+     Ekonomi kayıt altında değildir.
+     Siyasi yapı sağlam değildir.
+     Hukuki yapı sağlam değildir.
+     Devletin bağımsızlığı yoktur.
+
+21 - Sürdürülebilir büyüme, bir ekonomideki ekonomik büyüme modeline verilen addır. Bu, çok istikrarlı bir büyüme anlamına gelir.
+     Yani, uzun vadede kalıcı ve büyüme hızının çok az oynaklık gösterdiği yerlerde. Bu anlamda, uzun vadede sürekli bir büyüme ve bu, zaman içinde çok az değişikliğe uğrar.
+     Sürdürülebilir kalkınma; gelecek nesillerin ihtiyaçlarını karşılayabilme yeteneğine zarar vermeden kalkınmayı sağlama anlamına gelmektedir. Çevresel, ekonomik ve sosyal
+     alanlarda dengeyi sağlayarak bugünü ve geleceği güvence altına almak şeklinde de tanımlanabilir.
+
+23 - Göreli yoksul ülkelerin kişi başına düşen gelirlerinin zaman içerisinde zengin ülkelerin gelirlerini yakalayacağı varsayımına dayanır.
+24 - Eğitim, kalkınmanın temelidir. İnsanların ürettikleri yapılardan konuştukları dillere kadar her şey eğitimin ürünüdür. İnsan beyni diğer canlıların beyinlerinden farklı çalışır.
+     ...
+25 - 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
