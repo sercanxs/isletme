@@ -22,6 +22,9 @@
     miktarı çok yüksek olduğunda sermayenin marjinal verimliliği çok düşüktür)
     geçerlidir.
 
+5 - Gelişmişliğin ölçütü kişi başına düşen geliri standart olarak ölçmek yeterli olmayacağı için bunun yanında sağlık ve eğitime ait göstergeler, yoksulluk, işsizlik, bölgesel işsizlik, 
+    gelir durumları kriter olarak belirlenmiştir.
+
 6 - Ekonomik büyüme mal ve hizmet miktarındaki artışla ortaya çıkmışsa buna reel büyüme denir.
 
 7 - En Az Gelişmiş Ülkeler" (EAGÜ), Birleşmiş Milletlerin 1971'de yaptığı bir tanımlamadır.
@@ -46,7 +49,9 @@
      grubundaki ülkeler ve yüksek gelir grubundaki ülkeler. Her yıl yenilenen bu sınıflandırmayı yaparken ülkelerin kişi başına GNI düzeyine (Gayrısafi ulusal geliri) ve grupları
      sınıflandırırken de SDR deflatörünü kullanarak ayarladığı yıllık enflasyon oranına bakıyor. 
 
-13 - Devletin egemenliği yeterince yüksek değildir.
+13 - (maliye politikası final-1'de doğrusu yazıyor)
+ 
+     Devletin egemenliği yeterince yüksek değildir.
      İnsanların hayatı parasal sisteme daha az bağlıdır ve bu da vergi gelirlerine yansıyabilir.
      Sanayileşme ve üretim düşüktür.
      Ekonomi kayıt altında değildir.
@@ -100,9 +105,68 @@
      alanlarda dengeyi sağlayarak bugünü ve geleceği güvence altına almak şeklinde de tanımlanabilir.
 
 23 - Göreli yoksul ülkelerin kişi başına düşen gelirlerinin zaman içerisinde zengin ülkelerin gelirlerini yakalayacağı varsayımına dayanır.
-24 - Eğitim, kalkınmanın temelidir. İnsanların ürettikleri yapılardan konuştukları dillere kadar her şey eğitimin ürünüdür. İnsan beyni diğer canlıların beyinlerinden farklı çalışır.
-     ...
-25 - 
+24 - Eğitim, kalkınmanın temelidir. İnsanların ürettikleri yapılardan konuştukları dillere kadar her şey eğitimin ürünüdür...
+
+25 - Kamu gelirleri ile kamu harcamaları arasındaki fark kamu tasarruflarıdır. Bütçe fazlası kamu tasarrufudur. Yatırım hariç kamu harcamalarını dikkate almamız gerekir.
+     Yatırım hariç kamu harcamaları vergi gelirlerinden daha düşük olduğu zaman kamu bu farkı yatırımlarda kullanabilir. Dolayısıyla biz buna kamu tasarrufu diyoruz.
+
+26 - (maliye politikası final-1'de yazıyor)
+27 - (maliye politikası final-1'de yazıyor)
+28 - (maliye politikası final-1'de yazıyor)
+
+29 - Kutuplaşma teorisi azgelişmiş ülkeler ile gelişmiş ülkeler arasındaki iktisadi bütünleşme ve serbest ticaretin azgelişmişler aleyhine işleyeceğini ve sonuçta zengin ülkelerin 
+     daha zengin, fakir ülkelerin ise daha fakir hale geleceklerini savunan kuramdır.
+
+     Sosyo-ekonomik gelişmişlik  düzeyi bakımından gelişmiş ve az gelişmiş ülkeler olduğu gibi, ülkelerin kendi içinde de göreli olarak  gelişmiş  ve  az  gelişmiş  bölgeleri  bulunmaktadır. 
+     
+     Ülke  içindeki  bu  gelişmişlik farkları  pek  çok  sosyal  ve  ekonomik  sorunlara  neden  olmakta  ve  bu  nedenle  ülke genelinde  sosyo-ekonomik  bütünleşmeyi  sağlamak  amacıyla,
+     bölgeler  arasındaki farklılıkları azaltmaya yönelik büyük uğraşlar verilmektedir. Örneğin, bölgesel kalkınma arasındaki farklılıklar, Türkiye’nin en önemli sorunlarından biri olup,
+     bu sorun hem gelecekteki iktisadi  gelişme  için  bir  darboğaz  oluşturmakta,  hem  de  sosyal  sorunlara  kaynaklık etmektedir.
+
+     Ekonomik anlamda gelişme içerisindeki bir ülkede çoğu zaman gelişme ülkenin tüm  yörelerinde  aynı  anda  başlayamamakta  ve  gelişmenin  giderek  belli  merkezlerde yoğunlaşması,
+     bölgeler  arasında  gelişmişlik  farklarını  kaçınılmaz  hale  getirmektedir. Ülkemizde de az  gelişmiş  bölgelerin  temel  özelliklerine baktığımızda; Faktörlerin verimliliği 
+     zayıflığı ve faktör dağılımı bozukluğu, altyapı yatırımları yetersizliği, doğal çevrenin gelişmeye imkan vermemesi, bölgesel  gelir  dağılımının  düzensiz  olması, artan nüfusun 
+     dışarıya göçleri hızlandırması, ekonomik yapının tarıma dayalı olması, halkın  büyük çoğunluğunun  tarımsal  kesimde  çalışmasına  rağmen, bu kesimin yarattığı katma değer artış
+     hızının oldukça küçük ve kimi zamanda eksi bir durum göstermesi gibi nedenler olduğunu görmekteyiz.    Kaynak --> https://haberton.com/bolgesel-kalkinma-arasindaki-farkliliklar/
+
+30 - Kalkınma Ajansları bölgeler arası eşitsizliklerin azaltılması ve bölgesel kalkınmanın sağlanması için Sanayi ve Teknoloji Bakanlığı koordinasyonunda çalışmalar yürüten özerk
+     kamu kuruluşlarıdır. Kalkınma Ajansları doğrudan yatırım yapan uygulayıcı kuruluşlar değildir. Kalkınma Ajanslarının asıl görevi kamu, özel sektör ve sivil toplum kuruluşları
+     arasında işbirliğini destekleyerek yerel potansiyelin açığa çıkmasını sağlamaktır. Türkiye genelinde her biri Düzey 2 Bölgelerinde kurulan 26 adet Kalkınma Ajansı mevcuttur.
+
+32 - (Doğrusu maliye politikası final-1'de yazıyor)
+
+     ⦁	Ekonomik ve parasal birliğin sağlanması,
+     ⦁	AB yurttaşlarının tüm üye ülkelerde oturma, serbestçe dolaşma, seçme ve seçilme hakkına sahip olması,
+     ⦁	Ortak bir güvenlik ve dış politikanın uygulanması,
+     ⦁	Çeşitli alanlarda ortak programlar.
+
+35 - Devalüasyonun kısa vadeli etkileri:
+     İhracat artarken, ithalat azalır.
+     Dış ticaret açığı azalır.
+     Artan ihracat ile ülkenin milli geliri artmış olur.
+     
+     Uzun vadede devalüasyonun etkileri ortadan kalkmaya başlar. Çünkü devalüasyon insanların yükünü artırır ve iç piyasa kendi içinde çalışmaya devam ederek devalüasyonu aşındırır.
+
+
+38 - Irkçı miras nedeniyle ülke çapında bölgesel farklılıkların yanında bir de ırksal farklılıklar gizli bir şekilde hala devam etmektedir.
+     Ülkede servet birikimi gayet adaletsiz gerçekleşirken nüfusun %10’u ekonomik servetin %95’ine sahiptir.   
+
+     Ülkedeki en büyük sektörü madencilik oluşturmaktadır. Büyük miktarda altın ve elmas rezervlerine sahip olan ülkede ekonomi Yahudi şirketler tarafından yönetilmektedir.
+     Madenciliğin yanında turizm ve tarım sektörleri de ülkenin gelir getirici sektörleri arasındadır. 2010 yılında dünya kupasına ev sahipliği yapan ülke yıllık 10 milyon dolayında 
+     turist ağırlamaktadır.  
+
+     Güney Afrika işsizliğin yoğun olduğu bir ülkedir. Ülke genelinde resmi işsizlik oranı çalışabilir nüfus içinde %30 seviyesindedir. 
+     Ülke ekonomisindeki büyümenin 2010 yılından beri azalış göstermesi işsizlik sorununu daha da derinleştirmektedir. İşsizliğin yanında aynı işi yapan ırksal
+     gruplar arasında kazanç yönünden farklılıklar mevcuttur. Enflasyon oranının resmi verilere göre %5-6 seviyelerinde seyrettiği ülkede kamu borçlarının milli gelire oranı
+     2008 yılından bu yana giderek artmaktadır. 2016 yılı itibariyle devlet borçlarının milli gelire oranı %51,7’dir.       
+
+         
+
+
+
+
+
+
 
 
 
