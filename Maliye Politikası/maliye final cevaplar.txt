@@ -1,7 +1,17 @@
-1 - büyüme sadece milli gelirdeki niceliksel bir artışı ifade eder. Kalkınmada ise; üretim ve teknolojide oluşan
+1 - (maliye politikası'nda yazıyor) 
+
+    büyüme sadece milli gelirdeki niceliksel bir artışı ifade eder. Kalkınmada ise; üretim ve teknolojide oluşan
     gelişmelerle birlikte açığa çıkan ekonomik ve sosyal gelişmeleri de içerir. 
 
-3 - İnsani Yoksulluk Endeksi ( HPI ), Birleşmiş Milletler tarafından İnsani Gelişme Endeksi'ni (HDI) tamamlamak için
+2 - (maliye politikası'nda yazıyor) 
+
+    Gelişmişliğin ölçütü kişi başına düşen geliri standart olarak ölçmek yeterli olmadığı için İnsanı Gelişim Endeksi 
+    (HDI) karşılaştırma için kullanılır. HDI içerisinde, yaşam süresi, eğitim süresi, satın alma gücü kapasitesine göre 
+    milli gelir hesaplamaları yapılır.
+
+3 - (maliye politikası'nda yazıyor) 
+
+    İnsani Yoksulluk Endeksi ( HPI ), Birleşmiş Milletler tarafından İnsani Gelişme Endeksi'ni (HDI) tamamlamak için
     geliştirilen ve ilk olarak 1997'de İnsani Yoksunluk Raporunun bir parçası olarak rapor edilen bir ülkedeki 
     topluluk yoksulluğunun bir göstergesiydi.
     HPI, halihazırda İGE'de yansıtılan insan yaşamının üç temel unsurundaki yoksunluğa odaklanır: uzun ömür, 
@@ -9,7 +19,9 @@
     için sosyo-ekonomik farklılıkları ve ayrıca iki gruptaki çok farklı yoksunluk ölçülerini daha iyi yansıtmak için 
     ayrı ayrı türetilmiştir.
 
-4 - Tek sektörlü bir ekonomide tek bir homojen mal üretilip tüketilmektedir
+4 - (maliye politikası'nda yazıyor) 
+
+    Tek sektörlü bir ekonomide tek bir homojen mal üretilip tüketilmektedir
     Tasarruf oranı, aşınma payı, nüfus büyüme oranı ve teknolojik gelişme oranı sabit ve dışsaldır.
     Piyasalarda tam rekabet ve tam istihdam şartları geçerlidir
     Bireyler gelirlerinin bir kısmını tüketime bir kısmını tasarrufa ayırmaktadır ve
@@ -22,30 +34,44 @@
     miktarı çok yüksek olduğunda sermayenin marjinal verimliliği çok düşüktür)
     geçerlidir.
 
-5 - Gelişmişliğin ölçütü kişi başına düşen geliri standart olarak ölçmek yeterli olmayacağı için bunun yanında sağlık ve eğitime ait göstergeler, yoksulluk, işsizlik, bölgesel işsizlik, 
+5 - (maliye politikası'nda yazıyor) 
+
+    Gelişmişliğin ölçütü kişi başına düşen geliri standart olarak ölçmek yeterli olmayacağı için bunun yanında sağlık ve eğitime ait göstergeler, yoksulluk, işsizlik, bölgesel işsizlik, 
     gelir durumları kriter olarak belirlenmiştir.
 
 6 - Ekonomik büyüme mal ve hizmet miktarındaki artışla ortaya çıkmışsa buna reel büyüme denir.
 
-7 - En Az Gelişmiş Ülkeler" (EAGÜ), Birleşmiş Milletlerin 1971'de yaptığı bir tanımlamadır.
+7 - (maliye politikası'nda yazıyor) 
+
+  - En Az Gelişmiş Ülkeler" (EAGÜ), Birleşmiş Milletlerin 1971'de yaptığı bir tanımlamadır.
   - gelir düşüklüğü kıstası: kişi basma yıllık milli gelirin üç senelik ortalamasının 900 Dolar'ın altında olması
   - insan kaynaklarında zayıflık kıstası: beslenme, sağlık, ömür beklentisi eğitim ve yetişkin okuryazarlığı düzeylerim dikkate alan yaşam kalıntısı göstergesine uygunluk.
   - ekonomide çeşitlilik eksikliği kıstası: tarım üretimindeki istikrarsızlık, mal ve hizmet ihracatındaki istikrarsızlık, geleneksel olmayan faaliyetlerin (imalat ve hizmet sektörünün)
       ekonomideki ağırlığı, mal ihracatındaki sınırlı sayıda üründe yoğunlaşma ve ekonomik boyutların yetersizle unsurlarım kapsayan bir göstergeye uygunluk. 
       Ayrıca ülke nüfusunun 75 milyonu aşmaması koşulu da aranıyor.
 
-9 -  İBT, ekonomik büyümenin temelinde ekonomideki karar birimlerinin bilinçli tercihlerinin ve politikalarının bulunduğunu, ne tür politikalar ve
+8 -  (maliye politikası'nda yazıyor) 
+
+9 -  (maliye politikası'nda yazıyor) 
+
+     İBT, ekonomik büyümenin temelinde ekonomideki karar birimlerinin bilinçli tercihlerinin ve politikalarının bulunduğunu, ne tür politikalar ve
      seçimler yapıldığında uzun dönemli büyüme oranlarının sağlanacağını ortaya koymaktadır. İBT’de teknolojik gelişmenin ekonomik büyüme için taşıdığı önem yüksektir.
      İBT’ye göre teknolojik gelişme fiziksel sermaye, beşeri sermaye ve teknolojik bilgi birikiminin arttırılması yönündeki tercihlere,
      farklı piyasa ortamlarında bu tercihlerin başarılı sonuç vermesi için uygulanacak politikalara bağlı olmaktadır. 
 
-10 - Bu ülkelerde içsel büyüme etkenlerinin etkisi yüksektir. Büyümek için yapılan planların arkasında devlet vardır ve insanlara çok fazla yük yüklenir. Bilgiye erişmek günümüzde
+10 - (maliye politikası'nda yazıyor) 
+     
+     Bu ülkelerde içsel büyüme etkenlerinin etkisi yüksektir. Büyümek için yapılan planların arkasında devlet vardır ve insanlara çok fazla yük yüklenir. Bilgiye erişmek günümüzde
      kolay olduğu için teknolojik olarak aradaki uçurum da kapanmaktadır. Öyle ki yazılım sektöründe Asyalılar çoğunluğu oluşturur. Tersine mühendislik Çin'de gelişmiştir. İnsanların
      Çalışmaya zorlanmasıyla, düşük ücret ve değersiz para ile sürekli yatırımcı çekmesiyle beşeri sermayelerinde, fiziksel sermayelerinde, teknolojilerinde artış olmuş olabilir.
 
-11 - Normal durumda ekonominin geldiği dengedir. Eğer ekonomide normalde tam istihdamda dengeye geliyorsa, normal durum dengesi de tam istihdam denge düzeyidir.
+11 - (maliye politikası'nda yazıyor) 
 
-12 - Dünya Bankası, ülkeleri kişi başına gelirlerine göre dört grupta sınıflandırıyor: Düşük gelirli ülkeler, alt-orta gelir grubundaki ülkeler, üst – orta gelir
+     Normal durumda ekonominin geldiği dengedir. Eğer ekonomide normalde tam istihdamda dengeye geliyorsa, normal durum dengesi de tam istihdam denge düzeyidir.
+
+12 - (maliye politikası'nda yazıyor) 
+     
+     Dünya Bankası, ülkeleri kişi başına gelirlerine göre dört grupta sınıflandırıyor: Düşük gelirli ülkeler, alt-orta gelir grubundaki ülkeler, üst – orta gelir
      grubundaki ülkeler ve yüksek gelir grubundaki ülkeler. Her yıl yenilenen bu sınıflandırmayı yaparken ülkelerin kişi başına GNI düzeyine (Gayrısafi ulusal geliri) ve grupları
      sınıflandırırken de SDR deflatörünü kullanarak ayarladığı yıllık enflasyon oranına bakıyor. 
 
@@ -77,7 +103,17 @@
      Düşük gelirlilere düşük vergi uygulanırsa düşük gelirlilerin yükü daha az olur.
      Devletin bir paraya ihtiyacı varsa artan oranlı vergi tarifesi insanlara toplamda daha az yük olur.
 
-16 - Washington Konsensüsü, ABD ve diğer G-8 ülkeleri tarafından kabul edilen; IMF, Dünya Bankası ve WTO tarafından dayatılan neo-liberal ekonomi politikalarıdır.
+     Az gelişmiş ülkeler gelir düzeyi düşük olduğu için büyüme odaklıdırlar. Bu nedenle öncelikle tasarrufların 
+     artması sonucunda yatırımlara dönüşmesi, böylece büyüme sağlanacak ancak tasarrufu arttırabilmek için 
+     vergi ve harcama politikalarının uygun seçilmesi gerekir.Az gelişmiş ülkelerde yoksul kesim fazla olduğu için 
+     devlet bu kesim için harcama yapar, yüksek gelir grubundaki kişilerden de artan oranlı veri tarifesi ile daha 
+     fazla vergi alırsa, bu gelir grubu tasarruflarını azaltacak. Buna da milli transfer olarak yoksullara dağıtırsa yatırım 
+     yapamamış olacak. Bu kısır döngüye, yüksek gelir grubundan vergi alınmasına, düşük gelir grubundan harcama baskısı 
+     yapmasına denir.
+
+16 - (maliye politikası final-1'de yazıyor)
+
+     Washington Konsensüsü, ABD ve diğer G-8 ülkeleri tarafından kabul edilen; IMF, Dünya Bankası ve WTO tarafından dayatılan neo-liberal ekonomi politikalarıdır.
 
      Mali disiplinler
      Özel Mülkiyetin korunması
@@ -104,7 +140,10 @@
      Sürdürülebilir kalkınma; gelecek nesillerin ihtiyaçlarını karşılayabilme yeteneğine zarar vermeden kalkınmayı sağlama anlamına gelmektedir. Çevresel, ekonomik ve sosyal
      alanlarda dengeyi sağlayarak bugünü ve geleceği güvence altına almak şeklinde de tanımlanabilir.
 
-23 - Göreli yoksul ülkelerin kişi başına düşen gelirlerinin zaman içerisinde zengin ülkelerin gelirlerini yakalayacağı varsayımına dayanır.
+23 - (maliye politikası'nda yazıyor)  
+
+     Göreli yoksul ülkelerin kişi başına düşen gelirlerinin zaman içerisinde zengin ülkelerin gelirlerini yakalayacağı varsayımına dayanır.
+
 24 - Eğitim, kalkınmanın temelidir. İnsanların ürettikleri yapılardan konuştukları dillere kadar her şey eğitimin ürünüdür...
 
 25 - Kamu gelirleri ile kamu harcamaları arasındaki fark kamu tasarruflarıdır. Bütçe fazlası kamu tasarrufudur. Yatırım hariç kamu harcamalarını dikkate almamız gerekir.
