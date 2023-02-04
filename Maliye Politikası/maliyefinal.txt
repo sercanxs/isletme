@@ -10,29 +10,23 @@
     milli gelir hesaplamaları yapılır.
 
 3 - (maliye politikası'nda yazıyor) 
+     
+    Katlanılabilir bir yaşam için gerekli fırsatlara ve seçeneklere sahip olmamak şeklinde ifade edilen yoksulluk türüdür. İnsani yoksulluk, gelirle ilişkilendirilmeyen 
+    yoksulluktur.
 
-    İnsani Yoksulluk Endeksi ( HPI ), Birleşmiş Milletler tarafından İnsani Gelişme Endeksi'ni (HDI) tamamlamak için
-    geliştirilen ve ilk olarak 1997'de İnsani Yoksunluk Raporunun bir parçası olarak rapor edilen bir ülkedeki 
-    topluluk yoksulluğunun bir göstergesiydi.
-    HPI, halihazırda İGE'de yansıtılan insan yaşamının üç temel unsurundaki yoksunluğa odaklanır: uzun ömür, 
-    bilgi ve iyi bir yaşam standardı. HPI, gelişmekte olan ülkeler (HPI-1) ve bir grup yüksek gelirli OECD ülkesi (HPI-2) 
-    için sosyo-ekonomik farklılıkları ve ayrıca iki gruptaki çok farklı yoksunluk ölçülerini daha iyi yansıtmak için 
-    ayrı ayrı türetilmiştir.
+    HPI, halihazırda İnsani Gelişim Endeksin'de yansıtılan insan yaşamının üç temel unsurundaki yoksunluğa odaklanır: uzun ömür, 
+    bilgi ve iyi bir yaşam standardı. 
 
 4 - (maliye politikası'nda yazıyor) 
 
-    Tek sektörlü bir ekonomide tek bir homojen mal üretilip tüketilmektedir
-    Tasarruf oranı, aşınma payı, nüfus büyüme oranı ve teknolojik gelişme oranı sabit ve dışsaldır.
-    Piyasalarda tam rekabet ve tam istihdam şartları geçerlidir
-    Bireyler gelirlerinin bir kısmını tüketime bir kısmını tasarrufa ayırmaktadır ve
-    tasarruf yapanlarla yatırım yapanlar aynı kişilerdir.
-    Emek ve sermaye faktörleri için azalan verimler kanunu geçerlidir.
-    Üretimde ölçeğe göre sabit getiri vardır
-    Devlet yoktur ve ekonomi dışa kapalıdır
-    Inada koşulları (sermayenin kişi başına düşen miktarı çok küçük olduğunda
-    sermayenin marjinal verimliliği çok yüksekken, sermayenin kişi başına düşen
-    miktarı çok yüksek olduğunda sermayenin marjinal verimliliği çok düşüktür)
-    geçerlidir.
+   - Sanayileşen ülkelerin büyüme sürecini anlamada yardımcı olan materyallerdir.
+   - Ekonomide homojen tek bir mal üretilmektedir.
+   - Ekonomi dışa kapalıdır ve hükümet kapalıdır.
+   - Cobb-Douglas tipi üretim fonksiyonu geçerlidir. (Ölçeğe göre sabit getiri vardır.) (Emek ve sermaye için azalan verimler yasası geçerlidir.)
+   - Ekonomi tam istihdamdadır ve tam rekabet koşulları geçerlidir. (I = S)
+   - Emek ve sermaye girdileri ikame edilebilir. (Ekonomide dışsallık söz konusu değildir.)
+   - Temel modelde teknoloji düzeyi sabittir.
+   - Aynı şartlar altında, az gelişmiş ülkeler gelişmiş ülkelere göre daha hızlı büyür.
 
 5 - (maliye politikası'nda yazıyor) 
 
@@ -43,27 +37,67 @@
 
 7 - (maliye politikası'nda yazıyor) 
 
-  - En Az Gelişmiş Ülkeler" (EAGÜ), Birleşmiş Milletlerin 1971'de yaptığı bir tanımlamadır.
-  - gelir düşüklüğü kıstası: kişi basma yıllık milli gelirin üç senelik ortalamasının 900 Dolar'ın altında olması
-  - insan kaynaklarında zayıflık kıstası: beslenme, sağlık, ömür beklentisi eğitim ve yetişkin okuryazarlığı düzeylerim dikkate alan yaşam kalıntısı göstergesine uygunluk.
-  - ekonomide çeşitlilik eksikliği kıstası: tarım üretimindeki istikrarsızlık, mal ve hizmet ihracatındaki istikrarsızlık, geleneksel olmayan faaliyetlerin (imalat ve hizmet sektörünün)
-      ekonomideki ağırlığı, mal ihracatındaki sınırlı sayıda üründe yoğunlaşma ve ekonomik boyutların yetersizle unsurlarım kapsayan bir göstergeye uygunluk. 
-      Ayrıca ülke nüfusunun 75 milyonu aşmaması koşulu da aranıyor.
-
+   En Az Gelişmiş Ülkeler" (EAGÜ), Birleşmiş Milletlerin 1971'de yaptığı bir tanımlamadır.
+   
+   - Tarıma dayalı ekonomi (gizli işsizlik)
+   - Yaygın yoksulluk
+   - Kırsal nüfus çoğunlukta
+   - Gelir dağılımı bozuk
+   - Finansal piyasa yok
+   - Mülkiyet belirli kesimin elinde
+   - Kişi başına gelir az
+   - Tasarruf yok
+   - Sanayi üretimi yok. İthalat ile sağlanıyor.
+   - İhracat az
+   - Tüketim amaçlı üretim var
+   - Girişimcilik yok. Geleceğe yönelik beklentiler yok.
+   - Çarpık büyümeler var
+   - Kamu maliyesi sorunlu.
+   - Cari harcamalar yüksek
+   - Kayıtdışılık yaygın
+   - Tarım sektörünün vergilendirilmesi zor.
+   - Kamu gelirleri yetersiz
+   - Devletin oy katsayısı ön planda
+   - Dolaysız vergiler yüksek (toplanması kolay)
+    
 8 -  (maliye politikası'nda yazıyor) 
 
 9 -  (maliye politikası'nda yazıyor) 
 
-     İBT, ekonomik büyümenin temelinde ekonomideki karar birimlerinin bilinçli tercihlerinin ve politikalarının bulunduğunu, ne tür politikalar ve
-     seçimler yapıldığında uzun dönemli büyüme oranlarının sağlanacağını ortaya koymaktadır. İBT’de teknolojik gelişmenin ekonomik büyüme için taşıdığı önem yüksektir.
-     İBT’ye göre teknolojik gelişme fiziksel sermaye, beşeri sermaye ve teknolojik bilgi birikiminin arttırılması yönündeki tercihlere,
-     farklı piyasa ortamlarında bu tercihlerin başarılı sonuç vermesi için uygulanacak politikalara bağlı olmaktadır. 
+    İçsel büyüme modelleri, ekonominin zaman içinde nasıl büyüdüğünü açıklamaya çalışır.
+
+    Ekonomik büyümenin temelinde ekonomideki karar birimlerinin bilinçli seçimleri bulunur.
+    
+    İBT’de teknolojik gelişmenin ekonomik büyüme için taşıdığı önem yüksektir.
+     
+    Büyümeyi tetikleyeceği önerilen gelişmeler:
+     Bilgi
+     Beşeri sermaye
+     AR-GE
+     Finansal yenilikler
+     Devletin rolü
+     Piyasa yapıları
+    → Tasarruf artarsa büyüme de artar. (iş gücünün eğitimi ve yatırımı olarak kabul edilir)
+
 
 10 - (maliye politikası'nda yazıyor) 
+
+     1960-1990 yıllarında asya kaplanları dışında büyüyebilen ülke yoktu. Yaşanan büyümeyi anlamak için içsel büyüme modeli ortaya atıldı.
      
-     Bu ülkelerde içsel büyüme etkenlerinin etkisi yüksektir. Büyümek için yapılan planların arkasında devlet vardır ve insanlara çok fazla yük yüklenir. Bilgiye erişmek günümüzde
-     kolay olduğu için teknolojik olarak aradaki uçurum da kapanmaktadır. Öyle ki yazılım sektöründe Asyalılar çoğunluğu oluşturur. Tersine mühendislik Çin'de gelişmiştir. İnsanların
-     Çalışmaya zorlanmasıyla, düşük ücret ve değersiz para ile sürekli yatırımcı çekmesiyle beşeri sermayelerinde, fiziksel sermayelerinde, teknolojilerinde artış olmuş olabilir.
+     Bu ülkelerde içsel büyüme etkenlerinin etkisi yüksektir. Büyümek için yapılan planların arkasında devlet vardır.
+
+     → Tasarruf artırılarak büyüme sağlandı. (iş gücünün eğitimi ve yatırımı artırıldı)
+
+     İşgücü, eğitim ve araştırmalara önem verildi.
+
+     Dışsallıklar sayesinde kazanılan deneyim (emeğe yapılan eğitim, yatırım olarak değerlendirildi) diğer firmaları da etkiledi.
+
+     Bu pozitif dışsallıklar ülkede geliri arttırdı.
+
+     Piyasa ekonomisi,
+     Liyakat sistemi,
+     Ekonomik ve siyasi barış,
+     Hukuk devleti altyapısı olması büyümeye ortam oluşturdu.
 
 11 - (maliye politikası'nda yazıyor) 
 
@@ -71,12 +105,35 @@
 
 12 - (maliye politikası'nda yazıyor) 
      
-     Dünya Bankası, ülkeleri kişi başına gelirlerine göre dört grupta sınıflandırıyor: Düşük gelirli ülkeler, alt-orta gelir grubundaki ülkeler, üst – orta gelir
-     grubundaki ülkeler ve yüksek gelir grubundaki ülkeler. Her yıl yenilenen bu sınıflandırmayı yaparken ülkelerin kişi başına GNI düzeyine (Gayrısafi ulusal geliri) ve grupları
-     sınıflandırırken de SDR deflatörünü kullanarak ayarladığı yıllık enflasyon oranına bakıyor. 
+     Dünya Bankası, ülkeleri kişi başına gelirlerine göre dört grupta sınıflandırıyor: 
+
+     Düşük gelirli ülkeler, 
+     alt-orta gelirli ülkeler, 
+     üst-orta gelirli ülkeler,
+     yüksek gelirli ülkeler.
+
+     Kişi başına GSYİH ile birlikte, sağlık eğitim teknoloji vs. durumları da değerlendirilir.
 
 13 - (maliye politikası final-1'de doğrusu yazıyor)
- 
+
+     -	Bu ülkelerde gelir çoğunlukla tarımdan elde ediliyor
+     -	Yoksulluk yaygın. 
+     -	Nüfusun, önemli bir kesimi kırsal kesimlerde yaşıyor ve işgücü olarak kendi işinde çalışıyor. 
+     -	Fiziksel sermaye ile beşeri sermaye bir araya gelmiş değil. Diğer bir ifade ile kurumsallaşma ile şirketleşme bu ülkelerde yaygın değil. 
+     -	Mülkiyet, belirli kesimlerin elinde toplanmış dolayısıyla bu da gelir ya da servet dağılımını belirlemekte. Diğer bir ifade ile mülkiyetin belirli ellerde toplanması, 
+        gelir dağılımın bozuk olması sonucunu doğuruyor. 
+     -	Finansal piyasalar gelişmemiş 
+     -	Ekonomi tarıma bağlı olduğu için mevsimsel dalgalanmalardan veya hava koşullarından tarım ürünleri etkilendiği için tarım ürünlerinin fiyatları yıldan yıla dalgalanmalar
+        göstermektedir. 
+     -	Sanayi ürünleri bu ülkelerde olmadığı için dışarıdan ithal ediliyor. 
+     -	Bölgeler arası gelir dağılımı bozukluğu var. 
+     -	Kırsal kesimde yaşayanlar büyük ölçüde izole edilmişler ve bu ülkelerde etnik ve dinsel ayrımlar var. 
+     -	Etnik savaşlar veya dinsel savaşların bu ülkelerde olduğunu görmekteyiz. Örneğin Hindistan’da Budistler ile Müslümanların çatıştığını görmekteyiz. Ya da etnik çatışmalar, 
+        Hindistan bağımsızlığını 1947’ de kazandı ve bağımsızlığını kazanırken Hindistan ve Pakistan olarak ikiye bölündü. Sonra Pakistan da Banglageş ve Pakistan olarak ikiye bölündü. 
+        Bu bölünme dolayısıyla da Gandi’ ye suikast düzenlediler. Bu etnik çatışmalar yüzünden bu ülkelerde başa gelenler seçim yerine daha çok ordu tarafından desteklenmesi 
+        ile başa geliyor. 
+     -	Gelir dağılımının bozuk olması da sosyal açıdan gergin bir ortamın ortaya çıkmasına neden oluyor.
+
      Devletin egemenliği yeterince yüksek değildir.
      İnsanların hayatı parasal sisteme daha az bağlıdır ve bu da vergi gelirlerine yansıyabilir.
      Sanayileşme ve üretim düşüktür.
@@ -97,15 +154,11 @@
      İnsanlar kendi ürettiklerinden tüketiyorlarsa vergi bu kişileri kapsamayabilir.
 
 15 - Gelişmemiş ülkelerde gelir adaletsizliği yüksektir. artan oranlı vergi ise yüksek gelirli kimselerin yüklerini artırır.
-     Ama bunun üst dilimleri düşük gelirlileri kapsayacak seviyeye getirilirse bu, düşük gelirlilere daha çok yük olur. 
-     Vergi oranı yüzde yüz olsa kimse çalışmak istemez. Dolayısıyla vergi oranları bir noktaya kadar artırılabilir. Artan oranlı vergi ise vergi yükünü belirli durumlarda yeterince
-     artırmayabilir.
-     Düşük gelirlilere düşük vergi uygulanırsa düşük gelirlilerin yükü daha az olur.
      Devletin bir paraya ihtiyacı varsa artan oranlı vergi tarifesi insanlara toplamda daha az yük olur.
 
      Az gelişmiş ülkeler gelir düzeyi düşük olduğu için büyüme odaklıdırlar. Bu nedenle öncelikle tasarrufların 
      artması sonucunda yatırımlara dönüşmesi, böylece büyüme sağlanacak ancak tasarrufu arttırabilmek için 
-     vergi ve harcama politikalarının uygun seçilmesi gerekir.Az gelişmiş ülkelerde yoksul kesim fazla olduğu için 
+     vergi ve harcama politikalarının uygun seçilmesi gerekir. Az gelişmiş ülkelerde yoksul kesim fazla olduğu için 
      devlet bu kesim için harcama yapar, yüksek gelir grubundaki kişilerden de artan oranlı veri tarifesi ile daha 
      fazla vergi alırsa, bu gelir grubu tasarruflarını azaltacak. Buna da milli transfer olarak yoksullara dağıtırsa yatırım 
      yapamamış olacak. Bu kısır döngüye, yüksek gelir grubundan vergi alınmasına, düşük gelir grubundan harcama baskısı 
@@ -113,19 +166,19 @@
 
 16 - (maliye politikası final-1'de yazıyor)
 
-     Washington Konsensüsü, ABD ve diğer G-8 ülkeleri tarafından kabul edilen; IMF, Dünya Bankası ve WTO tarafından dayatılan neo-liberal ekonomi politikalarıdır.
+     1980’ lerden sonra neoliberal politikalar anlayışı içerisinde IMF, Dünya Bankası ve Amerikan Hazinesi’nin gelişmekte olan ülkelere uygulanmasını istedikleri politikalardır. 
+     10 maddeden oluşmaktadır. Bunlar;
 
-     Mali disiplinler
-     Özel Mülkiyetin korunması
-     Kamu harcamalarının azaltılması
-     Kamu teşebbüslerinin özelleştirilmesi
-     Vergi reformu
-     Ticaretin serbestleştirilmesi
-     Finansal reform
-     Uluslararası ticaretin önündeki engellerin kaldırılması
-     Sermaye hareketlerinin liberalleştirilmesi
-     Serbest faiz hadleri
-     Rekabetçi kur politikaları
+     Mali Disiplinin Sağlanması
+     Kamu Harcamalarının Öncelik Alanlarının Belirlenmesi
+     Vergi Reformlarının Yapılması
+     Finansal Piyasaların Serbestleştirilmesi
+     Tek ve Piyasa Tarafından Belirlenen Döviz Kuru Uygulaması 
+     Gümrük Tarifelerinin Kaldırılması 
+     Doğrudan Yabancı Yatırımların Özendirilmesi 
+     Kamu İktisadi Teşebbüslerinin Özelleştirilmesi 
+     Piyasalar Üzerindeki Kontrollerin Kaldırılması 
+     Mülkiyet Haklarının Güvence Altına Alınması
 
 17 - Devletin egemenliği yeterince yüksek değildir.
      İnsanların hayatı parasal sisteme daha az bağlıdır ve bu da vergi gelirlerine yansıyabilir.
@@ -160,7 +213,6 @@
      Marksist görüş: devletin baskın sınıfların çıkarını temsil ettiğini söyler.
 
 21 - Sürdürülebilir büyüme, bir ekonomideki ekonomik büyüme modeline verilen addır. Bu, çok istikrarlı bir büyüme anlamına gelir.
-     Yani, uzun vadede kalıcı ve büyüme hızının çok az oynaklık gösterdiği yerlerde. Bu anlamda, uzun vadede sürekli bir büyüme ve bu, zaman içinde çok az değişikliğe uğrar.
      Sürdürülebilir kalkınma; gelecek nesillerin ihtiyaçlarını karşılayabilme yeteneğine zarar vermeden kalkınmayı sağlama anlamına gelmektedir. Çevresel, ekonomik ve sosyal
      alanlarda dengeyi sağlayarak bugünü ve geleceği güvence altına almak şeklinde de tanımlanabilir.
 
@@ -368,6 +420,7 @@
 
 1 -  Merkez bankasının bağımsızlığı hakkında ne düşünüyorsunuz? 
      (maliye politikası final-1'de yazıyor)
+
 
 
 
